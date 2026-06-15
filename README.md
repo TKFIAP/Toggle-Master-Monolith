@@ -71,7 +71,7 @@ Para facilitar o desenvolvimento, o projeto está configurado para rodar com Doc
 
 2.  **Navegue até a pasta do projeto:**
     ```bash
-    cd toggle-master-monolith
+    cd Toggle-Master-Monolith
     ```
 
 3.  **Construa e inicie os contêineres:**
