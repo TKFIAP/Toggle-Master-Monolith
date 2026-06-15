@@ -214,7 +214,7 @@ Escolha a opção correspondente ao sistema operacional da sua instância EC2.
 2.  **Clone o repositório do seu projeto:**
     ```bash
     git clone <url-do-seu-repositorio>
-    cd toggle-master-monolith
+    cd Toggle-Master-Monolith
     ```
 
 3.  **Crie e ative um ambiente virtual para o Python:**
